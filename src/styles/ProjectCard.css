@@ -59,3 +59,46 @@
   border-radius: 20px;
   font-size: 0.85em;
 }
+
+@media (max-width: 768px) {
+  .project-image {
+    height: 180px;
+  }
+
+  .project-card h3 {
+    font-size: 1.1em;
+  }
+
+  .project-card p {
+    font-size: 0.95em;
+  }
+
+  .tech-tag {
+    font-size: 0.75em;
+    padding: 4px 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .project-card {
+    padding: 0;
+  }
+
+  .project-image {
+    height: 150px;
+  }
+
+  .project-card h3 {
+    padding: 15px 15px 0 15px;
+    font-size: 1em;
+  }
+
+  .project-card p {
+    padding: 0 15px;
+    font-size: 0.9em;
+  }
+
+  .tech-stack {
+    padding: 0 15px 15px 15px;
+  }
+}

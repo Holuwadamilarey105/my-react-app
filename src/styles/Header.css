@@ -94,3 +94,39 @@
     max-width: 300px;
   }
 }
+
+@media (max-width: 480px) {
+  .header {
+    padding: 50px 15px;
+  }
+
+  .header h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+
+  .tagline {
+    font-size: 1em;
+  }
+
+  .typewriter {
+    min-width: 150px;
+  }
+
+  .header-content {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .header-text {
+    min-width: auto;
+  }
+
+  .header-image {
+    min-width: auto;
+  }
+
+  .header-image img {
+    max-width: 250px;
+  }
+}
