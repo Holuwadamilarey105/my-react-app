@@ -24,7 +24,7 @@ function Header() {
             </p>
           </div>
           <div className="header-image">
-            <img src="/src/assets/profile.jpg" alt="Ayuba Ibrahim Olanrewaju" />
+            <img src="/assets/profile.jpg" alt="Ayuba Ibrahim Olanrewaju" />
           </div>
         </div>
       </div>
