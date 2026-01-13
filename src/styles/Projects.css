@@ -1,0 +1,16 @@
+.projects {
+  padding: 60px 20px;
+}
+
+.projects h2 {
+    color:aliceblue;
+  margin-bottom: 40px;
+  font-size: 2em;
+  text-align: center;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
