@@ -1,0 +1,18 @@
+.about {
+  padding: 60px 20px;
+  background: #030c16;
+}
+
+.about h2 {
+  color: aliceblue;
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+.about p {
+  color: aliceblue;
+  text-align: center;
+  font-size: 1.1em;
+  max-width: 600px;
+  margin: 0 auto;
+}
