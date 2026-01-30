@@ -29,7 +29,7 @@ function Contact() {
         <div className="contact-content">
           <div className="contact-info">
             <h3>Contact Information</h3>
-            <p><strong>Email:</strong> digitalsdarey.com</p>
+            <p><strong>Email:</strong> digitalsdarey@gmail.com</p>
             <p><strong>Phone:</strong> +234 (0) 9084603569</p>
             <p><strong>Location:</strong> Lagos, Nigeria</p>
             <div className="social-links">
