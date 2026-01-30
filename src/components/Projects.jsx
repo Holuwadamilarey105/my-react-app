@@ -52,6 +52,15 @@ function Projects() {
       tech: ['React', 'Vite', 'jsPDF', 'JavaScript'],
       link: 'https://nigeriantaxcalc.netlify.app',
       image: '/assets/tax.png'
+    },
+
+    {
+      id: 5,
+      title: 'Expense Tracker with Authentication',
+      description: 'Expense tracker app with user authentication, allowing users to securely log in and manage their personal expenses. Features include adding, editing, and deleting expenses, as well as viewing summaries by category and month.',
+      tech: ['React', 'Vite', 'JavaScript'],
+      link: 'https://theexpensestracker.netlify.app',
+      image: '/assets/tracker.png'
     }
   ]
 
