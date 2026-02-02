@@ -31,19 +31,19 @@ function Projects() {
       tech: ['Figma', 'Adobe XD'],
       image: '/assets/uiux1.jpg'
     },
+     {
+      id: 3,
+      title: 'Grading System',
+      description: 'Online Grading System for University students to check results and CGPA',
+      tech: ['HTML', 'CSS', 'JavaScript','Python', 'Django'],
+      image: '/assets/web2.png'
+    },
     {
       id: 3,
       title: 'Online Monitoring System',
       description: 'Web-based Monitoring System for tracking project progress and performance',
       tech: ['HTML', 'CSS', 'JavaScript','Python', 'Django'],
       image: '/assets/web1.png'
-    },
-    {
-      id: 3,
-      title: 'Grading System',
-      description: 'Online Grading System for University students to check results and CGPA',
-      tech: ['HTML', 'CSS', 'JavaScript','Python', 'Django'],
-      image: '/assets/web2.png'
     },
     {
       id: 4,
