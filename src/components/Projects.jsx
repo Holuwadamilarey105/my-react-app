@@ -67,7 +67,7 @@ function Projects() {
       title: 'Flight Tracker',
       description: 'Professional flight tracking application with interactive Leaflet maps, real-time aircraft animation, admin panel for custom flights, and responsive design. Features live status tracking, secure authentication, and data persistence.',
       tech: ['React', 'Leaflet', 'Vite', 'CSS3', 'localStorage'],
-      link: 'https://github.com/Holuwadamilarey105/flighttracker',
+      link: 'https://flighttracking1.netlify.app',
       github: 'https://github.com/Holuwadamilarey105/flighttracker',
       image: '/assets/flight-tracker.svg'
     }
