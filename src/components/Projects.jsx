@@ -33,8 +33,8 @@ function Projects() {
     },
     {
       id: 3,
-      title: 'Grading System',
-      description: 'Online Grading System for University students to check results and CGPA',
+      title: 'Online Monitoring System',
+      description: 'Web-based Monitoring System for tracking project progress and performance',
       tech: ['HTML', 'CSS', 'JavaScript','Python', 'Django'],
       image: '/assets/web1.png'
     },
@@ -69,7 +69,7 @@ function Projects() {
       tech: ['React', 'Leaflet', 'Vite', 'CSS3', 'localStorage'],
       link: 'https://github.com/Holuwadamilarey105/flighttracker',
       github: 'https://github.com/Holuwadamilarey105/flighttracker',
-      image: '/assets/flight.png'
+      image: '/assets/flight-tracker.svg'
     }
   ]
 
