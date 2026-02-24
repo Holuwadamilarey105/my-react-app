@@ -70,7 +70,16 @@ function Projects() {
       link: 'https://flighttracking1.netlify.app',
       github: 'https://github.com/Holuwadamilarey105/flighttracker',
       image: '/assets/flight-tracker.svg'
-    }
+    },
+
+      {
+      id: 6,
+      title: 'Task Flow Dashboard',
+      description: 'Task Flow Dashboard for assigning task and monitoring Progress of Task',
+      tech: ['React', 'Vite', 'JavaScript'],
+      link: 'https://taskflowdashboards.netlify.app',
+      image: '/assets/task.png'
+    },
   ]
 
   return (
